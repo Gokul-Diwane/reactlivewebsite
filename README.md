@@ -32,41 +32,57 @@ reactlivewebsite/
 └── README.md
 
 
+
 🛠️ Tech Stack
 React.js – Frontend library
+
 HTML5 & CSS3 – Markup and styling
+
 JavaScript (ES6+) – Core logic
+
 Create React App – Bootstrapping tool
 
 
 ⚙️ Getting Started
 Prerequisites
 Node.js (v14 or above)
+
 npm or yarn
 
 Installation
--git clone https://github.com/Gokul-Diwane/reactlivewebsite.git
--cd reactlivewebsite
--npm install
+
+git clone https://github.com/Gokul-Diwane/reactlivewebsite.git
+cd reactlivewebsite
+npm install
+
 
 Running Locally
--npm start
+npm start
+
 Open http://localhost:3000 to view in your browser.
 
+
 📦 Build for Production
--npm run build
+npm run build
+
 Creates an optimized production build in the build/ directory.
 
 🧪 Run Tests
--npm test
+npm test
+
 Launches the test runner in interactive mode.
 
 🌍 Deployment
 You can deploy this site using:
+
 GitHub Pages
+
 Netlify
+
 Vercel
+
 Firebase Hosting
+
 
 📸 Screenshots
 <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/f2eeebf2-b1e5-44e5-b7b2-cb6104c272bd" />
