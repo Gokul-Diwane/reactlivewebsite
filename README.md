@@ -6,12 +6,18 @@ A responsive and interactive website built using React.js. This project showcase
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/055afa76-382d-4035-ac7b-e9e647c44d59" />
 
 
-🚀 Features
+🔥 Features
 🌐 Single Page Application (SPA)
+
 🎨 Modern UI with reusable components
+
 📱 Responsive across devices
+
 ⚡ Fast development using Create React App
+
 📦 Easy deployment-ready build setup
+
+
 
 📁 Project Structure
 reactlivewebsite/
