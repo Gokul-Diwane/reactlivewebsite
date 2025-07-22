@@ -1,4 +1,5 @@
 ✨ React Live Website
+
 👋 This project was created by me, Gokul Diwane, at the very start of my journey learning React.
 It's a reflection of my early experiments with components, routing, and styling in React.js. 🌱
 A responsive and interactive website built using React.js. This project showcases modern UI components, responsive design, and clean architecture suitable for personal or professional websites.
@@ -7,6 +8,7 @@ A responsive and interactive website built using React.js. This project showcase
 
 
 🔥 Features
+
 🌐 Single Page Application (SPA)
 
 🎨 Modern UI with reusable components
@@ -19,21 +21,8 @@ A responsive and interactive website built using React.js. This project showcase
 
 
 
-📁 Project Structure
-reactlivewebsite/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
-
-
-
 🛠️ Tech Stack
+
 React.js – Frontend library
 
 HTML5 & CSS3 – Markup and styling
@@ -44,35 +33,47 @@ Create React App – Bootstrapping tool
 
 
 ⚙️ Getting Started
+
 Prerequisites
+
 Node.js (v14 or above)
 
 npm or yarn
 
+
 Installation
 
 git clone https://github.com/Gokul-Diwane/reactlivewebsite.git
+
 cd reactlivewebsite
+
 npm install
 
 
+
 Running Locally
+
 npm start
 
 Open http://localhost:3000 to view in your browser.
 
 
 📦 Build for Production
+
 npm run build
 
 Creates an optimized production build in the build/ directory.
 
+
 🧪 Run Tests
+
 npm test
 
 Launches the test runner in interactive mode.
 
+
 🌍 Deployment
+
 You can deploy this site using:
 
 GitHub Pages
